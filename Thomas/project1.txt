@@ -1,0 +1,10 @@
+Sara/Smith/asdad/1231/advisor/hello/Yes
+Emma/Stone/asdads/14434/industrymentor/hello/No
+Joss/Stone/sdfsfs/1231/advisor/Xiaojun Wu/Yes
+Mark/Stone/asdad/13434/advisor/hello/Yes
+xiaojun/Wu/asdada/3434535/graduate/ha ha/major/minor/yes
+Jason/Wu/asdad/14344/advisor/hi hi hi/No
+David/Chang/1000st 100ave/123-456-7890/IndustryMentor/Joss-Stone/yes
+Han/Yang/Brooklyn/1234567/Graduate/Wu di/major/minor/No
+Alic/Zhang/999st 99ave/123-456-9870/Undergraduate/David-Wu/Math/Computer Science/Yes
+Joe/Brown/555st-55ave/456-456-4567/IndustryMentor/Alic-Zhang/yes
